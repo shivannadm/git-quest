@@ -2,3 +2,5 @@ Get the user data...
 Getting the current data
 
 Creating an avatar for user
+
+User authentication accepted
