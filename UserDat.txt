@@ -1,6 +1,6 @@
 Get the user data...
 Getting the current data
 
-Creating an avatar for user
+Creating an avatar for the user
 
-User authentication accepted
+User authentication required
