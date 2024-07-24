@@ -4,3 +4,5 @@ Getting the current data
 Creating an avatar for the user
 
 User authentication required
+
+Progress.....
