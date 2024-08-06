@@ -6,5 +6,7 @@ Creating an avatar for the user
 User authentication required
 
 Progress.....
+
 Gathering
+
 API 404
